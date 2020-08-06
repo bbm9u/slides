@@ -1,0 +1,61 @@
+body, h1, h2, h3, h4, h5, h6, .reveal {
+  font-family: 'Libre Franklin', sans-serif !important;
+}
+
+body {
+  background: radial-gradient(#e5720077 0%, #e57200ee 100%);
+ 
+}
+
+#logo {
+  height: 3.25rem;
+}
+
+#logo svg {
+  max-height: 100%;
+  width: 100%;
+  min-height: 20px;
+}
+
+.reveal > nav {
+  background-color: #000;
+  z-index: 999;
+  display: flex;
+  align-items: stretch;
+}
+
+#logo svg {
+  width: unset;
+  margin-left: .5em;
+}
+
+.reveal .backgrounds {
+  top: 50px;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: stretch;
+  flex-shrink: 0;
+}
+
+.navbar-menu {
+  display: flex;
+  align-items: stretch;
+  flex-grow: 1;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+
+.navbar-end {
+  display: flex;
+  align-items: stretch;
+}
+
+.navbar-item {
+  padding: .0 .75rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  color: #fff !important;
+}
