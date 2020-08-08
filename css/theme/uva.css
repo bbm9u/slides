@@ -24,7 +24,7 @@ body {
 
 .reveal {
   font-family: 'Libre Franklin', "Franklin Gothic", Arial, Helvetica, sans-serif;
-  font-size: 42px;
+  font-size: 2.5rem;
   font-weight: normal;
   color: #222;
 }
@@ -67,15 +67,15 @@ body {
 }
 
 .reveal h1 {
-  font-size: 2.5em;
+  font-size: 1.3em;
 }
 
 .reveal h2 {
-  font-size: 1.6em;
+  font-size: 1.2em;
 }
 
 .reveal h3 {
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 
 .reveal h4 {
